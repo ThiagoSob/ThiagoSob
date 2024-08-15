@@ -1,7 +1,7 @@
 # Olá, sou Thiago Sobreira 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-bastos-de-alencar-sobreira-3135bb190/)
-[![GitHub Followers](https://img.shields.io/github/followers/seu-usuario?label=follow&style=social)](https://github.com/ThiagoSob)
+[![GitHub Followers](https://img.shields.io/github/followers/ThiagoSob?label=follow&style=social)](https://github.com/ThiagoSob)
 
 ## Sobre mim
 
