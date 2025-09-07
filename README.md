@@ -1,35 +1,37 @@
-# Olá, sou Thiago Sobreira 👋
+# Hi, I'm Thiago Sobreira 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-bastos-de-alencar-sobreira-3135bb190/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-bastos-de-alencar-sobreira-3135bb190/)
 [![GitHub Followers](https://img.shields.io/github/followers/ThiagoSob?label=follow&style=social)](https://github.com/ThiagoSob)
 
-## Sobre mim
+## About Me
 
-Sou um estudante de Ciência de Dados apaixonado por tecnologia e aprendizado contínuo. Estudando atualmente Python, estou sempre explorando novas ferramentas e abordagens para resolver problemas de forma eficiente e criativa.
+I am a Data Science student passionate about technology, leadership, and continuous learning.  
+With a background as an **Engine Room Supervisor** and years of experience managing teams, maintenance, inventory, and reporting in high-responsibility environments, I bring strong problem-solving, organisation, and people management skills.  
 
-- 🔭 Atualmente, cursando Data Science na Infinity School Fortaleza.
-- 🌱 Estou aprendendo Python e o uso das Bibliotecas.
-- 👯 Estou interessado em colaborar em projetos de Data Science para fortalecer meu aprendizado.
-- 📫 Como me encontrar: t.sobreira1990@gmail.com .
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+5585988119098)
-- ⚡ Fato curioso: Comecei minha carreira na área de navegação (manutenção de navios) e agora estou migrando para a área de Data Science.
+Currently, I am transitioning my career into the **Data Science and IT field**, studying Python and data analysis while exploring opportunities in technology and retail supervision.  
 
-## Tecnologias & Ferramentas
+- 🔭 Currently studying Data Science at Infinity School Fortaleza.  
+- 🌱 Learning Python and libraries for data analysis and machine learning.  
+- 👥 Experienced in **team leadership, supervision, stock control, and reporting**.  
+- 👯 Interested in collaborating on Data Science and IT-related projects.  
+- 📫 How to reach me: t.sobreira1990@gmail.com  
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+5585988119098)  
+- ⚡ Fun fact: I started my career in the maritime industry (ship maintenance and supervision) and now I’m transitioning into Data Science and IT.  
+
+## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
+## GitHub Stats
 
-## Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSob&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSob&theme=highcontrast)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoSob&show_icons=true&theme=highcontrast)
 
+## Connect with Me
 
-## Conecte-se Comigo
-
-- [LinkedIn](https://www.linkedin.com/in/thiago-bastos-de-alencar-sobreira-3135bb190/)
-- [E-mail](mailto:t.sobreira1990@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/thiago-bastos-de-alencar-sobreira-3135bb190/)  
+- [E-mail](mailto:t.sobreira1990@gmail.com)  
 
 ---
 
-⭐️ Deixe uma estrela em [meus repositórios](https://github.com/ThiagoSob) se você achar interessante!
+⭐️ Feel free to star [my repositories](https://github.com/ThiagoSob) if you find them interesting!
